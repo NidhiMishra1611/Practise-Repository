@@ -1,2 +1,2 @@
-# Nidhi Portfolio
+# Practise Portfolio
 This is my personal portfolio. I'm new to git, github and VSCode. I'm still learning how to code using these.
